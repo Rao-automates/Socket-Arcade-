@@ -1,6 +1,6 @@
 # Socket Arcade 🎮
 
-![Socket Arcade Banner](assets/banner.png)
+![Socket Arcade Banner](banner.png)
 
 **Socket Arcade** is a real-time multiplayer game server built with Flask and Socket.IO. It transforms your local network into a gaming party hub, allowing devices to connect seamlessly via Wi-Fi and play classic arcade games together.
 
@@ -15,7 +15,7 @@
 
 | Tic-Tac-Toe | Racing |
 |:---:|:---:|
-| ![Tic Tac Toe](assets/tictactoe.png) <br> **Neon Tic-Tac-Toe** <br> <sub>Classic strategy with a cyberpunk twist.</sub> | ![Racing](assets/racing.png) <br> **Tap Racing** <br> <sub>Mash buttons to race your car to the finish line!</sub> |
+| ![Tic Tac Toe](tictactoe.png) <br> **Neon Tic-Tac-Toe** <br> <sub>Classic strategy with a cyberpunk twist.</sub> | ![Racing](racing.png) <br> **Tap Racing** <br> <sub>Mash buttons to race your car to the finish line!</sub> |
 
 ### Other Games Included:
 *   **Number Guessing**: Test your intuition against a friend.
